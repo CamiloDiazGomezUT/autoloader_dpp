@@ -16,6 +16,6 @@ To get started, go to the `transformations` folder -- most of the relevant sourc
 - Use `Run file` to run and preview a single transformation.
 - Use `Run pipeline` to run _all_ transformations in the entire pipeline.
 - Use `+ Add` in the file browser to add a new data set definition.
-- Use `Schedule` to run the pipeline on a schedule!.
+- Use `Schedule` to run the pipeline on a schedule!
 
-For more tutorials and reference material, see https://learn.microsoft.com/azure/databricks/ldp..
+For more tutorials and reference material, see https://learn.microsoft.com/azure/databricks/ldp.
